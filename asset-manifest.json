@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Desaf-o-componentes-y-props/static/css/main.f280fe4c.chunk.css",
+    "main.js": "/Desaf-o-componentes-y-props/static/js/main.d73c0fd7.chunk.js",
+    "main.js.map": "/Desaf-o-componentes-y-props/static/js/main.d73c0fd7.chunk.js.map",
+    "runtime-main.js": "/Desaf-o-componentes-y-props/static/js/runtime-main.0ee2a4ff.js",
+    "runtime-main.js.map": "/Desaf-o-componentes-y-props/static/js/runtime-main.0ee2a4ff.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Desaf-o-componentes-y-props/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a9db0118.chunk.js": "/Desaf-o-componentes-y-props/static/js/2.a9db0118.chunk.js",
+    "static/js/2.a9db0118.chunk.js.map": "/Desaf-o-componentes-y-props/static/js/2.a9db0118.chunk.js.map",
+    "static/js/3.945304c0.chunk.js": "/Desaf-o-componentes-y-props/static/js/3.945304c0.chunk.js",
+    "static/js/3.945304c0.chunk.js.map": "/Desaf-o-componentes-y-props/static/js/3.945304c0.chunk.js.map",
+    "index.html": "/Desaf-o-componentes-y-props/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Desaf-o-componentes-y-props/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.f280fe4c.chunk.css.map": "/Desaf-o-componentes-y-props/static/css/main.f280fe4c.chunk.css.map",
+    "static/js/2.a9db0118.chunk.js.LICENSE.txt": "/Desaf-o-componentes-y-props/static/js/2.a9db0118.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ee2a4ff.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.a9db0118.chunk.js",
+    "static/css/main.f280fe4c.chunk.css",
+    "static/js/main.d73c0fd7.chunk.js"
+  ]
+}
